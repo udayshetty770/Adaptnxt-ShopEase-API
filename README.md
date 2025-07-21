@@ -136,13 +136,7 @@ You can use **Postman** to test the endpoints:
 
 ---
 
-##  GitHub Repository
 
-> Upload the full code and update this line with your GitHub link:
-
-** [GitHub Repo](https://github.com/your-username/Adaptnxt_ShopEase_API)**
-
----
 
 ##  Author
 
