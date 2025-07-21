@@ -33,6 +33,12 @@ A Java-based e-commerce backend developed for the Backend Developer Internship a
   - JSP-based pages (optional, minimal UI)
 
 ---
+ Snapshots
+Click below to view screenshots of the UI, Postman tests, and API responses:
+
+🔗 View Snapshots Folder
+
+
 
 ##  Technologies Used
 
