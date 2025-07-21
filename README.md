@@ -37,7 +37,8 @@ A Java-based e-commerce backend developed for the Backend Developer Internship a
 
 Click below to view screenshots of the UI, Postman tests, and API responses:
 
-🔗 [View Snapshots Folder]([https://github.com/udayshetty770/Adaptnxt_ShopEase_API/tree/main/snapshots](https://github.com/udayshetty770/Adaptnxt-ShopEase-API/tree/master/Snapshots))
+🔗 [View Snapshots Folder](https://github.com/udayshetty770/Adaptnxt-ShopEase-API/tree/master/Snapshots)
+
 
 
 
