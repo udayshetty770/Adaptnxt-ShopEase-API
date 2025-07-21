@@ -1,5 +1,5 @@
 
-# 🛍️ Adaptnxt ShopEase API - E-Commerce Backend with JWT & Role-Based Access
+# 🛍 Adaptnxt ShopEase API - E-Commerce Backend with JWT & Role-Based Access
 
 A Java-based e-commerce backend developed for the Backend Developer Internship assignment at Adaptnxt. This REST-style API supports user authentication, role-based access, product listing, cart management, and order creation using Servlets, MySQL, and JWT.
 
@@ -46,7 +46,7 @@ A Java-based e-commerce backend developed for the Backend Developer Internship a
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 ```
 Adaptnxt_ShopEase_API/
 ├── src/
@@ -82,12 +82,6 @@ Adaptnxt_ShopEase_API/
 | `/orders`                    | POST   | Customer   | Place order from cart            |
 
 ---
-
-##  Optional Features (Planned)
-
-- [ ] Product Search (by name/category)
-- [ ] Pagination for product listing
-- [ ] RESTful API documentation (Postman collection or Swagger)
 
 ---
 
