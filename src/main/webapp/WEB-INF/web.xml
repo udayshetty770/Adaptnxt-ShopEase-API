@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" version="4.0">
+  <display-name>Project4_UdayCoShopping</display-name>
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <servlet-name>UserRegisterServlet</servlet-name>
+    <servlet-class>servlet.UserRegisterServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserRegisterServlet</servlet-name>
+    <url-pattern>/UserRegisterServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>UserLoginServlet</servlet-name>
+    <servlet-class>servlet.UserLoginServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>UserLoginServlet</servlet-name>
+    <url-pattern>/UserLoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>CheckAccessServlet</servlet-name>
+    <servlet-class>servlet.CheckAccessServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>CheckAccessServlet</servlet-name>
+    <url-pattern>/CheckAccessServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>ProductAdminServlet</servlet-name>
+    <servlet-class>servlet.ProductAdminServlet</servlet-class>
+  </servlet>
+</web-app>
