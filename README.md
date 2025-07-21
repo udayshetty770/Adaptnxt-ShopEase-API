@@ -147,5 +147,5 @@ Java Developer | B.E. Computer Science
 
 For queries, contact via email or LinkedIn.
 
----![Uploading image.png…]()
+
 
