@@ -142,7 +142,7 @@ You can use **Postman** to test the endpoints:
 
 **Udaya Kumar Shetty**  
 Java Developer | B.E. Computer Science  
-[LinkedIn](https://www.linkedin.com/in/udayakumarshetty) 
+[LinkedIn](https://www.linkedin.com/in/udaya-kumar-shetty-093835268/) 
 
 ---
 
